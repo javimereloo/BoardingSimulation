@@ -5,6 +5,9 @@ This boarding simulator allows you to respond de question: what is the most effi
 - Window Middle Aisle (WILMA)
 - Alternated Window Middle Aisle 
 
+![Boarding Strategies](/media/BoardingStrategies.jpg)
+
+
 Also creates a GIF using python's library Matplotlib.
 
 # How to use
